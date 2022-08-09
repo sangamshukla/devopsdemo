@@ -1,0 +1,36 @@
+.org {
+    
+    border-radius: 10px;
+    height: 180px;
+    background-color: orange;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+.white{
+   
+    border-radius: 10px;
+    height: 180px;
+    /* text-align: center; */
+    font-size: 54px;
+}
+.green
+{
+
+    border-radius: 10px;
+    height: 180px;
+    background-color: green;
+    text-align: center;
+    font-size: 60px;
+}
+.center{
+    text-align: justify;
+    height: 108px;
+}
+.container{
+    width: 70%;
+    height: 85%;
+    background-color: #ffffff;
+
+}
